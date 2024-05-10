@@ -1,3 +1,9 @@
 git init
 git config user.name
 git config user.email
+git add .
+git commit -m "primeiro commit"
+git add .
+git commit -m "segundo commit"
+git checkout master
+git checkout nova-branch
