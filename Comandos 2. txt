@@ -1,0 +1,5 @@
+git init
+git config --global usar.email
+git add .
+git commit -m "primeiro commit"
+git push -u origin main 

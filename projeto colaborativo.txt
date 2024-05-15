@@ -1,0 +1,2 @@
+Aula Github.TXT
+git config --global usar.email
